@@ -1,5 +1,4 @@
 ---
-import { Icon } from "astro-icon/components";
 import YukinaConfig from "../../yukina.config";
 import { i18n } from "../locales/translation";
 import I18nKeys from "../locales/keys";
@@ -50,17 +49,6 @@ const tagKeys = [...tags.keys()];
             {YukinaConfig.sign}
           </p>
         </div>
-        <ul class="flex flex-row items-center justify-center space-x-6">
-          {
-            YukinaConfig.socialLinks.map((item) => (
-              <li>
-                <a href={item.link} class="text-[var(--primary-color)]">
-                  <Icon name={item.icon} size={24} />
-                </a>
-              </li>
-            ))
-          }
-        </ul>
       </div>
     </div>
   </div>
