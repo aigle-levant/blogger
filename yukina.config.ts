@@ -54,14 +54,13 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "https://s2.loli.net/2025/01/25/PBvHFjr5yDu6t4a.webp",
-    "https://s2.loli.net/2025/01/25/6bKcwHZigzlM4mJ.webp",
-    "https://s2.loli.net/2025/01/25/H9WgEK6qNTcpFiS.webp",
-    "https://s2.loli.net/2025/01/25/njNVtuUMzxs81RI.webp",
-    "https://s2.loli.net/2025/01/25/tozsJ8QHAjFN3Mm.webp",
-    "https://s2.loli.net/2025/01/25/Pm89OveZq7NWUxF.webp",
-    "https://s2.loli.net/2025/01/25/UCYKvc1ZhgPHB9m.webp",
-    "https://s2.loli.net/2025/01/25/JjpLOW8VSmufzlA.webp",
+    "https://4kwallpapers.com/images/walls/thumbs_3t/15138.jpg",
+    "https://4kwallpapers.com/images/walls/thumbs_3t/15214.jpg",
+    "https://4kwallpapers.com/images/walls/thumbs_3t/21085.jpg",
+    "https://4kwallpapers.com/images/walls/thumbs_3t/20236.jpg",
+    "https://4kwallpapers.com/images/walls/thumbs_3t/15257.jpg",
+    "https://4kwallpapers.com/images/walls/thumbs_3t/14938.jpg",
+    "https://4kwallpapers.com/images/walls/thumbs_3t/16145.jpg",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
